@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## :sparkles: GITHUB Analytic :sparkles:
+## :sparkles: GITHUB Analytics :sparkles:
 
 ![3d-asset](./profile-3d-contrib/profile-gitblock.svg)
 
