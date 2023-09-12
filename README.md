@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<!-- ## :sparkles: GITHUB Analytics :sparkles:
+## :sparkles: GITHUB Analytics :sparkles:
 
 ![3d-asset](./profile-3d-contrib/profile-season-animate.svg)
 
-<br> -->
+<br>
 
 ## :sparkles: Tech Stack :sparkles:
 
