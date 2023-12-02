@@ -4,7 +4,7 @@
 
 ## :sparkles: GITHUB Analytics :sparkles:
 
-![3d-asset](./profile-3d-contrib/profile-season-animate.svg)
+![3d-asset](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <br>
 
